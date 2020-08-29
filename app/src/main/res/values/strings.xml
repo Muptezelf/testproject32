@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ceminaq</string>
+    <string name="ikinci_sayfa">ikinci sayfa</string>
+    <string name="sil" />
+    <string name="sa">sa</string>
+    <string name="s">sil</string>
+    <string name="sil_aq">sil aq</string>
+</resources>
